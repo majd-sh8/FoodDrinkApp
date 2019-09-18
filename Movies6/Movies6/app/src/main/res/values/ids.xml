@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="linearLayoutCompat" type="id" />
-    <item name="detail_movie_cover" type="id" />
-    <item name="cardView2" type="id" />
-</resources>
